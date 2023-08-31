@@ -1,0 +1,20 @@
+{
+  "title": "Test d'internationalisation de l'application",
+  "subtitle": "Ceci est un sous-titre",
+  "description": "Ceci est une description",
+  "choose_language": "Choisissez la langue:",
+  "current_date_time": "Date et heure actuelles",
+  "short": "Court",
+  "medium": "Moyen",
+  "long": "Long",
+  "full": "Complet",
+  "formatted_numbers": "Nombres formatés",
+  "integer": "Entier",
+  "decimal": "Décimal",
+  "currency": "Monnaie",
+  "percent": "Pour cent",
+  "unit_conversion": "Conversion d'unités",
+  "inches_to_cm": "Pouces en centimètres",
+  "pounds_to_kg": "Livres en kilogrammes",
+  "liters_to_oz": "Litres en onces"
+}

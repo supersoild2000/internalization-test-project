@@ -1,0 +1,20 @@
+{
+  "title": "Тестовий застосунок для інтернаціоналізації",
+  "subtitle": "Це підзаголовок",
+  "description": "Це опис",
+  "choose_language": "Оберіть мову:",
+  "current_date_time": "Поточна дата та час",
+  "short": "Короткий",
+  "medium": "Середній",
+  "long": "Довгий",
+  "full": "Повний",
+  "formatted_numbers": "Форматовані числа",
+  "integer": "Ціле",
+  "decimal": "Десяткове",
+  "currency": "Валюта",
+  "percent": "Відсоток",
+  "unit_conversion": "Конвертація одиниць",
+  "inches_to_cm": "Дюйми в сантиметри",
+  "pounds_to_kg": "Фунти в кілограми",
+  "liters_to_oz": "Літри в унції"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Internationalisation Test App",
+  "subtitle": "This is a subtitle",
+  "description": "This is a description",
+  "choose_language": "Choose language:",
+  "current_date_time": "Current Date and Time",
+  "short": "Short",
+  "medium": "Medium",
+  "long": "Long",
+  "full": "Full",
+  "formatted_numbers": "Formatted Numbers",
+  "integer": "Integer",
+  "decimal": "Decimal",
+  "currency": "Currency",
+  "percent": "Percent",
+  "unit_conversion": "Unit Conversion",
+  "inches_to_cm": "Inches to Centimeters",
+  "pounds_to_kg": "Pounds to Kilograms",
+  "liters_to_oz": "Liters to Ounces"
+}
